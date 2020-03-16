@@ -8,7 +8,7 @@ for (var i = 0; i < numberOfButtons; i++) {
 
         function () {
 
-            alert("I got clicked!");
+
         })
 };
 
