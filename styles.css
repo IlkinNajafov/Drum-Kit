@@ -28,22 +28,22 @@ footer {
 
 .s {
   background-image: url(images/tom3.png);
-
+  
 }
 
 .d {
   background-image: url(images/tom4.png);
-
+  background-size: cover;
 }
 
 .j {
   background-image: url(images/snare.png);
-
+  background-size: cover;
 }
 
 .k {
   background-image: url(images/crash.png);
-
+  background-size: cover;
 }
 
 .l {
