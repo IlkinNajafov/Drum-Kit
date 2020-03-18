@@ -51,6 +51,11 @@ footer {
 
 }
 
+.b{
+  background-image: url(images/kick2.png);
+  background-size: cover;
+}
+
 .set {
   margin: 10% auto;
 }

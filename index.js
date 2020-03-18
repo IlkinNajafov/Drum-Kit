@@ -63,6 +63,11 @@ function makeSound(key) {
             kick.play();
             break;
 
+        case "b":
+                var kick = new Audio('sounds/kick.mpeg');
+                kick.play();
+                break;
+
         default: console.log(buttonInnerHTML);
             break;
 
