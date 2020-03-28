@@ -12,7 +12,7 @@ for (var i = 0; i < numberOfButtons; i++) {
 
 
         });
-    }
+    };
 
 
 document.addEventListener("keypress", function (event) {
@@ -72,8 +72,8 @@ function makeSound(key) {
             break;
 
 
-    }
-}
+    };
+};
 
 function buttonAnimation(currentkey) {
     var activeButton = document.querySelector("." + currentkey);
@@ -81,7 +81,7 @@ function buttonAnimation(currentkey) {
       setTimeout(function() {
         activeButton.classList.remove("pressed");
       }, 100);
-}
+};
 
 
 
